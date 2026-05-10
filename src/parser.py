@@ -1,0 +1,13 @@
+from Bio import SeqIO
+
+def read_fasta(file_path):
+    sequences = []
+
+    for record in SeqIO.parse(file_path, "fasta"):
+        sequences.append({
+            "id": record.id,
+            "sequence": str(record.seq),
+            "length": len(record.seq)
+        })
+
+    return sequences

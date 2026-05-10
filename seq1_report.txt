@@ -1,0 +1,25 @@
+===== DNA SEQUENCE ANALYSIS REPORT =====
+
+Sequence ID: seq1
+Sequence: ATGCGTACGTAGCTAGCTAGCTAGCTA
+
+GC Content: 48.15%
+Reverse Complement: TAGCTAGCTAGCTAGCTACGTACGCAT
+RNA: AUGCGUACGUAGCUAGCUAGCUAGCUA
+Protein: MRT
+
+ORFs Found: 1
+ ORF 1: ATGCGTACGTAG
+
+K-mer Frequencies:
+ ATG: 1
+ TGC: 1
+ GCG: 1
+ CGT: 2
+ GTA: 2
+ TAC: 1
+ ACG: 1
+ TAG: 4
+ AGC: 4
+ GCT: 4
+ CTA: 4
