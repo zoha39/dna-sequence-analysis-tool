@@ -1,11 +1,11 @@
-# 🧬 DNA Sequence Analysis Tool
+#  DNA Sequence Analysis Tool
 
 A modular Python-based bioinformatics tool for DNA sequence analysis.  
 This project demonstrates core bioinformatics workflows including sequence parsing, GC content analysis, ORF detection, k-mer analysis, and protein translation.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - FASTA file parsing
 - GC content calculation
@@ -19,4 +19,4 @@ This project demonstrates core bioinformatics workflows including sequence parsi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
